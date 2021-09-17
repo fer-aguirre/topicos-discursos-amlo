@@ -5,4 +5,4 @@ __pycache__
 *.py
 
 notebooks/cache/
-notebooks/.ipynb_checkpoints/
+notebooks/.ipynb*
