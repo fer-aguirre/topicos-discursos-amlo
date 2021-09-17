@@ -1,9 +1,7 @@
 # Visualizaciones para análisis de texto
-<b>Visualizaciones:</b></br>
-- WordCloud</br>
-- WordCloud + Diagrama de Venn</br></br>
 
-<b>Análisis de texto:</b></br>
-- Frecuencia de palabras en un texto</br>
-- Modelado de tópicos (LDA)</br>
-- Frecuencia de término – Frecuencia inversa de documento (Tf-idf)</br>
+## [matplotlib_venn_wordcloud](https://github.com/paulbrodersen/matplotlib_venn_wordcloud) 
+
+Modelado de tópicos LDA de los tres discursos de AMLO. Visualización de diagrama de Venn + wordcloud [(ejemplo)](https://github.com/fer-aguirre/wordsVis/blob/master/notebooks/vennWordcloud.ipynb) 
+
+![vennWordcloud](https://github.com/fer-aguirre/wordsVis/blob/master/outputs/vennWordcloud.png)
