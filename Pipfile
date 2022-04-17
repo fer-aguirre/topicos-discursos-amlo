@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+spacy = "*"
+es-core-news-sm = "*"
+numpy = "*"
+gensim = "*"
+matplotlib-venn-wordcloud = "*"
+wordcloud = "*"
+nltk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
